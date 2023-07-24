@@ -10,6 +10,7 @@ Created the Campaign DataFrame
 Created the Contacts DataFrame
 Created the Crowdfunding Database
 
+**Task 2 Requirements:**
 Once we created tCrowdfunding Database
 We Inspected the four CSV files, and then sketched an ERD of the tables by using [QuickDBDLinks](https://www.quickdatabasediagrams.com/)
 Created a table schema for each CSV file using the information from the ERD.
